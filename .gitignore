@@ -7,3 +7,4 @@ __pycache__/
 
 # Ignore .env file (optional for production secrets)
 .env
+parsed_output.json
